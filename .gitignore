@@ -76,10 +76,3 @@ web/themes/README.txt
 # DDEV #
 ##########
 /.ddev/*
-!/.ddev
-/.ddev/*
-!/.ddev/config.yaml
-!/.ddev/providers
-/.ddev/providers/*
-!/.ddev/providers/ssh.yaml
-ß
