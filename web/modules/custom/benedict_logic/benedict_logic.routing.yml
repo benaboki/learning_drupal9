@@ -1,0 +1,11 @@
+benedict_logic.hello:
+  path: '/benedict'
+  defaults:
+    _controller: '\Drupal\benedict_logic\Controller\HelloController::benedict'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'
+
+
+    
+

@@ -1,0 +1,5 @@
+name: Benedict's first module
+description: Benedict's first Drupal 9 module.
+package: examples
+type: module
+core_version_requirement: ^9
