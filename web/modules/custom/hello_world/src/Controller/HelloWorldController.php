@@ -41,7 +41,7 @@ class HelloWorldController extends ControllerBase {
      * Hello World.
      *
      * @return array
-     *  Our message. 
+     *   Our message. 
      */
     public function helloWorld() {
         return [
